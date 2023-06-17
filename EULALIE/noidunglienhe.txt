@@ -1,0 +1,6 @@
+<h1>Cảm ơn bạn đã đăng kí tài khoản tại EULALIE</h1> <br>
+
+<h1>Đây là thông tin tài khoản của bạn</h1>
+<p>Email:{email}</p>
+<p>Tên:{username}</p>
+<p>Password:{password}</p>
